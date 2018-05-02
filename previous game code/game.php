@@ -61,7 +61,7 @@
 	            <input id="button" type="submit" value="Look"> &nbsp;&nbsp;&nbsp;
 	        </form>
 
-		</div>
+
 
 	</body>
 </html>
